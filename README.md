@@ -1,4 +1,4 @@
-# DWIPrita HTML Starter Template
+# DWIPrihta HTML Starter Template
 
 Starter Template ini dapat anda gunakan untuk memulai berbagai project FRONTEND, didalamnya sudah include index.html, Bootstrap, JQuery, dan VUEjs
 
