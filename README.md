@@ -8,6 +8,8 @@ Starter Template ini dapat anda gunakan untuk memulai berbagai project FRONTEND,
 
 > > Folder Structured and completeness
 
+![complate](https://user-images.githubusercontent.com/58933022/88482340-d12c4f80-cf8a-11ea-98c2-658ccad35b2d.PNG)
+
 ## Lisensi
 
 MIT License
