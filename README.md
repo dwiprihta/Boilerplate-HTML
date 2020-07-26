@@ -2,8 +2,11 @@
 
 Starter Template ini dapat anda gunakan untuk memulai berbagai project FRONTEND, didalamnya sudah include index.html, Bootstrap, JQuery, dan VUEjs
 
-1. starter HTML
-   ![index](https://user-images.githubusercontent.com/58933022/88482140-aab9e480-cf89-11ea-8b1d-b7c3ef110df4.PNG)
+> > Started HTML
+
+![index](https://user-images.githubusercontent.com/58933022/88482140-aab9e480-cf89-11ea-8b1d-b7c3ef110df4.PNG)
+
+> > Folder Structured and completeness
 
 ## Lisensi
 
